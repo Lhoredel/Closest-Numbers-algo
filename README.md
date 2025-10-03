@@ -1,1 +1,2 @@
 # Closest-Numbers-algo
+This code solves the Closest Numbers problem by finding all pairs with the smallest absolute difference in a sorted array. It first sorts the array and scans adjacent elements to determine the minimum difference between any two consecutive numbers. The algorithm then collects all pairs that achieve this minimum difference, outputting them in ascending order as consecutive elements.
